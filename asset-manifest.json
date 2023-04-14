@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-barcode-app/static/css/main.8147579f.css",
+    "main.js": "/my-barcode-app/static/js/main.4467aeab.js",
+    "static/js/787.863c2025.chunk.js": "/my-barcode-app/static/js/787.863c2025.chunk.js",
+    "index.html": "/my-barcode-app/index.html",
+    "main.8147579f.css.map": "/my-barcode-app/static/css/main.8147579f.css.map",
+    "main.4467aeab.js.map": "/my-barcode-app/static/js/main.4467aeab.js.map",
+    "787.863c2025.chunk.js.map": "/my-barcode-app/static/js/787.863c2025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8147579f.css",
+    "static/js/main.4467aeab.js"
+  ]
+}
